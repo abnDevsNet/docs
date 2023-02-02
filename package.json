@@ -1,16 +1,16 @@
 {
   "name": "docs",
   "version": "0.0.1",
-  "description": "",
-  "main": "index.js",
+  "description": "Build your dreams together",
   "authors": {
     "name": "Bishwajit Adhikary",
     "email": "bishwajitcadhikary@gmail.com"
   },
-  "repository": "/docs",
+  "repository": "https://github.com/abnDevs/docs",
   "scripts": {
     "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "build": "vuepress build src",
+    "deploy": "sh deploy.sh"
   },
   "license": "MIT",
   "devDependencies": {

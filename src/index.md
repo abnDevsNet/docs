@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: 
-actionText: Quick Start →
+tagline: Build your dreams together.
+actionText: Get Started →
 actionLink: /guide/
 features:
 - title: Feature 1 Title
